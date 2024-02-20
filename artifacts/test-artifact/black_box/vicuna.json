@@ -1,10 +1,10 @@
 {
   "parameters": {
     "method": "PAIR",
-    "model_name": "vicuna",
+    "model": "vicuna",
     "attack_type": "black_box",
     "run_date": "2024-01-01T00:00:00-04:56",
-    "success rate": 0.5,
+    "success_rate": 0.5,
     "total_number_of_queries": 2000,
     "total_number_of_tokens": 800000,
     "method_parameters": {
