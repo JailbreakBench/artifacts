@@ -1,7 +1,7 @@
 {
   "parameters": {
     "method": "PAIR",
-    "model_name": "vicuna-1.5",
+    "model_name": "vicuna",
     "attack_type": "black_box",
     "run_date": "2024-01-01T00:00:00-04:56",
     "success rate": 0.5,
