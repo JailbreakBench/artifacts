@@ -9,7 +9,7 @@
     "total_number_of_queries": 2000,
     "total_prompt_tokens": 800000,
     "total_response_tokens": 800000,
-    "evaluation_llm_provider": "vllm
+    "evaluation_llm_provider": "vllm",
     "method_parameters": {
       "attacker_model": "mixtral",
       "target_model": "vicuna",
