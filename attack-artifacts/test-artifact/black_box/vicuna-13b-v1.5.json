@@ -10,6 +10,7 @@
     "total_prompt_tokens": 800000,
     "total_response_tokens": 800000,
     "evaluation_llm_provider": "vllm",
+    "number_of_submitted_prompts": 10,
     "method_parameters": {
       "attacker_model": "mixtral",
       "target_model": "vicuna",
