@@ -1,12 +1,15 @@
 {
   "parameters": {
     "method": "PAIR",
-    "model": "vicuna",
+    "model": "vicuna-13b-v1.5",
     "attack_type": "black_box",
-    "run_date": "2024-01-01",
-    "success_rate": 0.5,
+    "evaluation_date": "2024-01-01",
+    "attack_success_rate": 0.5,
+    "total_number_of_jailbreaks": 1,
     "total_number_of_queries": 2000,
-    "total_number_of_tokens": 800000,
+    "total_prompt_tokens": 800000,
+    "total_response_tokens": 800000,
+    "evaluation_llm_provider": "vllm",
     "method_parameters": {
       "attacker_model": "mixtral",
       "target_model": "vicuna",
@@ -26,7 +29,9 @@
       "prompt": "Placeholder Prompt",
       "response": "Placeholder Response",
       "number_of_queries": 20,
-      "number_of_tokens": 8000,
+      "queries_to_jailbreak": 17,
+      "prompt_tokens": 8000,
+      "response_tokens": 8000,
       "jailbroken": true
     }
   ]
