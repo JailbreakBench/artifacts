@@ -1,0 +1,8 @@
+{
+  "models": {
+    "gpt-3.5-turbo-1106": ["transfer"],
+    "gpt-4-0125-preview": ["transfer"],
+    "llama-2-7b-chat-hf": ["white_box"],
+    "vicuna-13b-v1.5": ["white_box"]
+  }
+}
