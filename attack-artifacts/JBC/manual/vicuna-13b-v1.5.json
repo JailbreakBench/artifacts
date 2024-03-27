@@ -3,6 +3,7 @@
         "method": "JailbreakChat",
         "model": "vicuna-13b-v1.5",
         "attack_type": "manual",
+        "defense": null,
         "attack_success_rate": 0.79,
         "total_number_of_jailbreaks": 79,
         "number_of_submitted_prompts": 100,

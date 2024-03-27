@@ -3,6 +3,7 @@
         "method": "JailbreakChat",
         "model": "gpt-3.5-turbo-1106",
         "attack_type": "manual",
+        "defense": null,
         "attack_success_rate": 0.0,
         "total_number_of_jailbreaks": 0,
         "number_of_submitted_prompts": 100,
