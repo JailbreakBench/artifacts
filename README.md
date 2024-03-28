@@ -32,3 +32,5 @@ JailbreakInfo(
     jailbroken=True
 )
 ```
+
+Each artifact is released under MIT license owned by the artifacts authors.
