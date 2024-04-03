@@ -34,3 +34,16 @@ JailbreakInfo(
 ```
 
 Each artifact is released under MIT license owned by the artifacts authors.
+
+If you find this work useful, please consider citing our work (apart from the work from which the artifacts are!):
+
+```bibtex
+@misc{chao2024jailbreakbench,
+      title={JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models}, 
+      author={Patrick Chao and Edoardo Debenedetti and Alexander Robey and Maksym Andriushchenko and Francesco Croce and Vikash Sehwag and Edgar Dobriban and Nicolas Flammarion and George J. Pappas and Florian Tramèr and Hamed Hassani and Eric Wong},
+      year={2024},
+      eprint={2404.01318},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+```
