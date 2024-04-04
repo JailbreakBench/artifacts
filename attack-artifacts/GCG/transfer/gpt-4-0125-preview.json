@@ -3,6 +3,7 @@
         "method": "GCG",
         "model": "gpt-4-0125-preview",
         "attack_type": "transfer",
+        "defense": null,
         "attack_success_rate": 0.01,
         "total_number_of_jailbreaks": 1,
         "number_of_submitted_prompts": 100,
