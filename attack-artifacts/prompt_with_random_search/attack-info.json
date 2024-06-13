@@ -1,0 +1,8 @@
+{
+  "models": {
+    "gpt-3.5-turbo-1106": ["black_box"],
+    "gpt-4-0125-preview": ["black_box"],
+    "llama-2-7b-chat-hf": ["black_box"],
+    "vicuna-13b-v1.5": ["black_box"]
+  }
+}
