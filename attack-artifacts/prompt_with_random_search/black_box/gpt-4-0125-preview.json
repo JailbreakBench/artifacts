@@ -2,7 +2,7 @@
     "parameters": {
         "method": "adaptive_random_search",
         "model": "gpt-4-0125-preview",
-        "attack_type": "black_box_score_based",
+        "attack_type": "black_box",
         "defense": null,
         "attack_success_rate": 0.78,
         "total_number_of_jailbreaks": 100,
