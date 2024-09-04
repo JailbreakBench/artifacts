@@ -7,6 +7,7 @@
         "attack_success_rate": 0.9,
         "total_number_of_jailbreaks": 100,
         "number_of_submitted_prompts": 100,
+        "total_number_of_queries": 2462,
         "total_prompt_tokens": 1932896,
         "total_response_tokens": 55228,
         "evaluation_date": "2024-03-29",
