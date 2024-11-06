@@ -1,0 +1,6 @@
+{
+  "models": {
+    "llama-2-7b-chat-hf": ["white_box"],
+    "vicuna-13b-v1.5": ["white_box"]
+  }
+}
